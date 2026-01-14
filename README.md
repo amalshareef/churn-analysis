@@ -11,7 +11,7 @@ The goal of this project is to identify key drivers of churn and provide actiona
 
 ## 3. Data Overview
 - Dataset source: Kaggle
-- Records: XXXX customers
+- Records: 125000 customers
 - Features: demographics, service usage, contract details
 
 ## 4. Analysis & Approach
